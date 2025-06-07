@@ -7,8 +7,9 @@ MediBot is an AI-powered healthcare assistant built with Streamlit and AWS Bedro
 ## How to Run MediBot Locally
 
 1. Clone your repository:
-   git clone <your-github-repo-url>
-   cd <your-project-folder>
+   ```bash
+   git clone https://github.com/cpslo/medibot-ai.git
+   cd medibot-ai
 
 2. (Optional) Create and activate a virtual environment:
    python3 -m venv .venv
