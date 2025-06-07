@@ -12,9 +12,12 @@ MediBot is an AI-powered healthcare assistant built with Streamlit and AWS Bedro
    cd medibot-ai
 
 2. (Optional) Create and activate a virtual environment:
-   python3 -m venv .venv
-   source .venv/bin/activate  # for macOS/Linux
-   .venv\\Scripts\\activate   # for Windows
+   - macOS/Linux:
+     python3 -m venv .venv
+     source .venv/bin/activate
+   - Windows:
+     python -m venv .venv
+     .venv\Scripts\activate
 
 3. Install the required dependencies:
    pip install -r requirements.txt
