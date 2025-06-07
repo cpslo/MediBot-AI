@@ -49,9 +49,8 @@ This script uses sentence-transformer embeddings to create a searchable FAISS ve
 
 ## 📺 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=FE0MeTcCz40&t=1s))
+[![Watch the demo](https://img.youtube.com/vi/FE0MeTcCz40/0.jpg)](https://www.youtube.com/watch?v=FE0MeTcCz40)
 
 Click the image above to watch our live demo of MediBot in action!
-
 
 
